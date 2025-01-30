@@ -1,5 +1,5 @@
 # VueJS-with-Vite
-[![Netlify Status](https://api.netlify.com/api/v1/badges/90f7681f-2d1c-48d8-b917-ec49b99c1d76/deploy-status)](https://app.netlify.com/sites/beamish-profiterole-a280c4/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6abf23fc-0ceb-4536-a1b9-953a74759500/deploy-status)](https://app.netlify.com/sites/beamish-profiterole-a280c4/deploys)
 
 This template should help get you started developing with Vue 3 in Vite.
 
